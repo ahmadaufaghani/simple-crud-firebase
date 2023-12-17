@@ -2,7 +2,7 @@
 
 Berikut adalah penjelasan dari fitur - fitur CRUD yang ada pada aplikasi tersebut;
 
-* Fitur Create merupakan fitur yang dapat digunakan poengguna untuk membuat aktivitas baru.
+* Fitur Create merupakan fitur yang dapat digunakan pengguna untuk membuat aktivitas baru.
   ![ezgif com-video-to-gif-converted (1)](https://github.com/ahmadaufaghani/simple-crud-firebase/assets/91787354/015e894f-49ae-47cb-963f-7eaa92707c41)
 
 * Fitur Read merupakan fitur yang dapat digunakan pengguna untuk membaca aktivitas dari database secara realtime.
